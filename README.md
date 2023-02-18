@@ -16,5 +16,5 @@ Featured Mars Image
 
 Mars' Hemispheres
 
-![MarsHemisphere1.png](Resources/MarsHemisphere1.png)
-![MarsHemisphere2.png](Resources/MarsHemisphere2.png)
+![MarsHemispheres1.png](Resources/MarsHemispheres1.png)
+![MarsHemispheres2.png](Resources/MarsHemispheres2.png)
